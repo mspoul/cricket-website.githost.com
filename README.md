@@ -1,4 +1,4 @@
-# cricket-website.githost.com
+# Cricket-website.githost.com
 Welcome to the XYZ Cricket Tournament Registration Website! This website allows cricket enthusiasts to register for upcoming cricket tournaments hosted by XYZ Organization. Participants can choose their preferred format, provide team information, and complete the registration using a multi-stage form.
 Project Overview
 
